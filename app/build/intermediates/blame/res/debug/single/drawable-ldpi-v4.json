@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

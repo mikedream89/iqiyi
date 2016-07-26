@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_movie_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_movie_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tv_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_tv_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_search_image.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/edittext_search_image.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_qiyi_works_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_qiyi_works_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_divide_operate.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_item_divide_operate.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ratingbar_full_filled.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/ratingbar_full_filled.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_divide_operate.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_item_divide_operate.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/t1.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/t1.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_fun_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_fun_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_publicity_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_publicity_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/commlist_head_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/commlist_head_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_movie_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_movie_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_more_bg_selected.9.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/item_more_bg_selected.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_video_clips_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_video_clips_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_movie_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_movie_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_ipc_list_leaf_item_bg_press.9.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_ipc_list_leaf_item_bg_press.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/flickbar_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/flickbar_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/flickbtn_bg_center_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/flickbtn_bg_center_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_album_selected.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_item_bg_album_selected.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/t2.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/t2.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_publicity_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_publicity_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_operate_selected.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_item_bg_operate_selected.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_fun_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_fun_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_btn.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/play_btn.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_2_n.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_2_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_group_bg.9.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/home_group_bg.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_2_c.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_2_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_ipc_list_leaf_item_bg_press.9.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_ipc_list_leaf_item_bg_press.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_4_c.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_4_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_4_n.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_4_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phonetitlebar_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/phonetitlebar_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/video_cover_default.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/video_cover_default.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_2_c.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_2_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_record_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_record_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/t1.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/t1.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/flickbtn_bg_center_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/flickbtn_bg_center_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/flickbar_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/flickbar_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_2_n.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_2_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_4_n.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_4_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_operate.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_item_bg_operate.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_more_bg_selected.9.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/item_more_bg_selected.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_indecator_button.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_indecator_button.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_cartoon_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_cartoon_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phonetabview_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/phonetabview_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_5_c.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_5_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_4_c.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_4_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_indecator_button.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_indecator_button.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_music_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_music_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_main_tree_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/search_main_tree_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_search_bg_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/button_search_bg_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_record_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_record_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_ipc_list_leaf_item_bg_normal.9.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_ipc_list_leaf_item_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/t3.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/t3.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_more_bg.9.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/item_more_bg.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_fun_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_fun_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_history_clear_btn_bg_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/search_history_clear_btn_bg_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_history_clear_btn_bg_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/search_history_clear_btn_bg_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_cartoon_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_cartoon_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/t2.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/t2.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_fun_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_fun_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ratingbar_full_empty.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/ratingbar_full_empty.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_5_n.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_5_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_publicity_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_publicity_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_3_c.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_3_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/commlist_head_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/commlist_head_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_3_n.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_3_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_1_c.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_1_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tourism_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_tourism_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_1_n.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_1_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_search_bg_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/button_search_bg_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_indecator_button_down.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_indecator_button_down.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_album_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_item_bg_album_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loadmovie_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/loadmovie_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_video_clips_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_video_clips_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_search_image.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/edittext_search_image.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_album_selected.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_item_bg_album_selected.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_cartoon_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_cartoon_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_search.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/edittext_search.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_history_clear_btn_bg_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/search_history_clear_btn_bg_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_btn_pressed.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/play_btn_pressed.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_qiyi_works_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_qiyi_works_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_btn_pressed.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/play_btn_pressed.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_dialog_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/detail_dialog_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ratingbar_full_filled.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/ratingbar_full_filled.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tourism_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_tourism_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tourism_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_tourism_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/video_cover_default.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/video_cover_default.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_indecator_button_down.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_indecator_button_down.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_main_tree_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/search_main_tree_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tourism_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_tourism_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/detail_dialog_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/detail_dialog_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_btn.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/play_btn.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tv_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_tv_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ratingbar_full_empty.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/ratingbar_full_empty.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_cartoon_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_cartoon_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_publicity_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_publicity_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_operate_selected.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_item_bg_operate_selected.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_album_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/list_item_bg_album_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_music_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_music_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loadmovie_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/loadmovie_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_search.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/edittext_search.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/t3.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/t3.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phonetitlebar_bg.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/phonetitlebar_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_music_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_music_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_video_clips_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_video_clips_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_qiyi_works_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_qiyi_works_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tv_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_tv_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_music_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_music_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_bg_operate.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/list_item_bg_operate.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_qiyi_works_normal.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_qiyi_works_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_tv_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_tv_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_1_n.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_1_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_1_c.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_1_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_group_bg.9.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/home_group_bg.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_video_clips_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_video_clips_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_record_normal.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_record_normal.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_more_bg.9.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/item_more_bg.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_5_c.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_5_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_search_bg_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/button_search_bg_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_ipc_list_leaf_item_bg_normal.9.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_ipc_list_leaf_item_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_5_n.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_5_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_search_bg_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/button_search_bg_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_3_c.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/icon_3_c.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_3_n.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/icon_3_n.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phonetabview_bg.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/phonetabview_bg.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_record_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/channel_type_record_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/channel_type_movie_press.png",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/drawable-hdpi/channel_type_movie_press.png"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_history_clear_btn_bg_press.png",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/drawable-hdpi/search_history_clear_btn_bg_press.png"
+    }
+]

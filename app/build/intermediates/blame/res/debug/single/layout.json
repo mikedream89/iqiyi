@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/list_group_item.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/list_group_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/more_activity.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/more_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/title_view.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/title_view.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/list_child_item.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/list_child_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/channel_activity.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/channel_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/list_group_item.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/list_group_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/account_activity.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/account_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/home_activity.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/header_view.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/header_view.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/channel_activity.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/channel_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/main1.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/main1.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/search_grid_item.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/search_grid_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/list_child_item.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/list_child_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/account_activity.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/account_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/search_activity.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/search_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/search_activity.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/search_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/home_activity.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/gallery_item.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/gallery_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/search_grid_item.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/search_grid_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/gallery_item.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/gallery_item.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/layout/more_activity.xml",
+        "source": "/home/mark/appProject/iqiyi1/app/src/main/res/layout/more_activity.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/header_view.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/header_view.xml"
+    },
+    {
+        "merged": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/layout/title_view.xml",
+        "source": "/home/mark/appProject/iqiyi/app/src/main/res/layout/title_view.xml"
+    }
+]

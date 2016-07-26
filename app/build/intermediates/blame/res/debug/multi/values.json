@@ -1,0 +1,1168 @@
+[
+    {
+        "outputFile": "/home/mark/appProject/iqiyi1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 54,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 162,
+                        "endColumn": 51,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 60,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 54,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 51,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 48,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 45,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 47,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 53,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/drawables.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 143,
+                        "endColumn": 50,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 36,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 36,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 39,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 39,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 49,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 49,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 47,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 47,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 44,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 44,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 44,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 44,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 46,
+                    "endOffset": 1032
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 46,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1037,
+                    "endColumn": 51,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 51,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 40,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 40,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 41,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endColumn": 41,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 45,
+                    "endOffset": 1213
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1218,
+                    "endColumn": 37,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 37,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 43,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 43,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 43,
+                    "endOffset": 1339
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 43,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1344,
+                    "endColumn": 43,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 43,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 45,
+                    "endOffset": 1429
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 45,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1434,
+                    "endColumn": 47,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 47,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1482,
+                    "endColumn": 49,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 49,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 42,
+                    "endOffset": 1570
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 42,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1575,
+                    "endColumn": 38,
+                    "endOffset": 1609
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 38,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2145,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2594
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2599,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2876
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2881,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi1/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 912
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mark/appProject/iqiyi/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 54,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 162,
+                        "endColumn": 51,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 60,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 54,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 51,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 48,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 45,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 47,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 53,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/drawables.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 143,
+                        "endColumn": 50,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 36,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 36,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 39,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 39,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 49,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 49,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 47,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 47,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 44,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 44,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 44,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 44,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 46,
+                    "endOffset": 1032
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 46,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1037,
+                    "endColumn": 51,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 51,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 40,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 40,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 41,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endColumn": 41,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 45,
+                    "endOffset": 1213
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1218,
+                    "endColumn": 37,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 37,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 43,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 43,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 43,
+                    "endOffset": 1339
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 43,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1344,
+                    "endColumn": 43,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 43,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 45,
+                    "endOffset": 1429
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 45,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1434,
+                    "endColumn": 47,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 47,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1482,
+                    "endColumn": 49,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 49,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 42,
+                    "endOffset": 1570
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 42,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1575,
+                    "endColumn": 38,
+                    "endOffset": 1609
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 38,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2145,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2594
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2599,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2876
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2881,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "/home/mark/appProject/iqiyi/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 912
+                    }
+                }
+            }
+        ]
+    }
+]
